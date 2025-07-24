@@ -1,0 +1,85 @@
+{
+   "name": "Karli De Jesus Munoz Manzano",
+  "photo": "https://avatars.githubusercontent.com/u/146567084?s=400&u=10ac8a81dce39acffa4cfd5c1374083aa565bac8&v=4",
+  "job": "Cursando Análise e Desenvolvimento de sistemas no Instituto Federal Catarinense",
+  "location": "Fraiburgo - SC",
+  "phone": "(49) 98836-6714",
+  "email": "jesusvzlanz@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/kamuz-01/Portfolio-DIO/main/Portfolio-DIO/js-developer-portfolio-main/data/imgs/java.png"
+      },
+      {
+        "name": "Spring Boot",
+        "logo": "https://raw.githubusercontent.com/kamuz-01/Portfolio-DIO/main/Portfolio-DIO/js-developer-portfolio-main/data/imgs/springboot.png"
+      },
+       {
+        "name": "HTML5",
+        "logo": "https://raw.githubusercontent.com/kamuz-01/Portfolio-DIO/main/Portfolio-DIO/js-developer-portfolio-main/data/imgs/html.png"
+      },
+       {
+        "name": "CSS3",
+        "logo": "https://raw.githubusercontent.com/kamuz-01/Portfolio-DIO/main/Portfolio-DIO/js-developer-portfolio-main/data/imgs/css.png"
+      },
+       {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/kamuz-01/Portfolio-DIO/main/Portfolio-DIO/js-developer-portfolio-main/data/imgs/jav.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/kamuz-01/Portfolio-DIO/main/Portfolio-DIO/js-developer-portfolio-main/data/imgs/react.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/kamuz-01/Portfolio-DIO/main/Portfolio-DIO/js-developer-portfolio-main/data/imgs/mysql.png"
+      },
+       {
+        "name": "Linux",
+        "logo": "https://raw.githubusercontent.com/kamuz-01/Portfolio-DIO/main/Portfolio-DIO/js-developer-portfolio-main/data/imgs/linux.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Espanhol ES",
+    "Inglês (iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/kamuz-01/Pokedex-DIO",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/kamuz-01/portfolio-para-o-joao",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+     "name": "Bootcamp Java Developer / DIO",
+     "period": "2024",
+     "description": "Desenvolvi projetos práticos com Spring Boot, APIs REST e bancos de dados relacionais durante o bootcamp. Pratiquei Git, GitHub e versionamento colaborativo."
+   },
+    {
+     "name": "Desenvolvedor Front-End (Projeto Pessoal)",
+     "period": "2024",
+     "description": "Criei uma landing page responsiva para um projeto fictício, utilizando HTML, CSS e JavaScript. O projeto está publicado no GitHub."
+   },
+    {
+     "name": "Desenvolvedor Full-Stack independente",
+     "period": "2023",
+     "description": "Criei uma aplicação web de gestão hoteleira usando Java EE (JSP e SErvlets), HTML5, CSS3, JavaScript e MySQL, o qual ajudou a digitalizar processos internos do hotel."
+   }
+  ]
+}
